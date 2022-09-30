@@ -1,0 +1,38 @@
+hr {
+    background-color: #0bff01;
+    border-color: #0bff01;
+    border-style: none;
+    border-top: dotted;
+    border-width: 2px;
+    width: 2%;
+}
+body {
+    background-color: black;
+}
+h1 {
+    color: #0bff01;
+}
+h2 {
+    color: #0bff01;
+}
+h3 {
+    color: #0bff01;
+}
+p {
+    color: #0bff01;
+}
+a {
+    color: #0bff01;
+}
+ul {
+    color: #0bff01;
+}
+tbody {
+    color: #0bff01;
+}
+thead {
+    color: #0bff01;
+}
+form {
+    color: #0bff01;
+}
